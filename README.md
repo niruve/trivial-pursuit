@@ -1,3 +1,3 @@
 # trivial-pursuit
-The purpose of this code is to showcase our take on Trivial Pursuit
+The purpose of this code is to showcase our take on Trivial Pursuit using Java from high school.
 In this version, up to four people can play at a time and they must answer a series of questions of their choice from select categories, ranging from easy, medium, and hard. The objective of the game is to these answer questions correctly until a player reaches the game's winning score. There are six categories which can be chosen from: Arts & Literature, Entertainment, Geography, History, Sports & Leisure, and Science & Nature. To start, Player 1 will go first followed by Player 2, and so on. During the turn of a player, the player can choose which difficulty of a question they want and based on the difficulty, the points received varies. The game continues this way until a player reaches 25 points.
